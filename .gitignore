@@ -1,5 +1,5 @@
---pycache--/
+--pycache__/
 *.pyc
 .ipynb_checkpoints/
 *.png
-.jpg
+*.jpg
